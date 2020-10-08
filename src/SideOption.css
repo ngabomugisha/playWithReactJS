@@ -1,0 +1,12 @@
+
+.side__line{
+    display: flex;
+    justify-items: center;
+    margin-top: 10px;
+    font-weight: bold;
+    color: rgb(46, 46, 48);
+}
+
+.side__line:hover{
+    color: rgb(21, 34, 204);
+}

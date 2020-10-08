@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  font-family: lato;
+}
+
+.App {
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  margin:10px;
+  border-radius: 50px;
+}
+html, body {
+    margin: 0;
+     height: 100%; 
+     overflow: hidden;
+     background: rgb(9,9,121);
+     background: linear-gradient(90deg, rgba(9,9,121,1) 10%, rgba(0,233,235,1) 0100%, rgba(0,212,255,1) 100%, rgba(0,234,240,1) 1000%);
+    }
